@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/Samspei01/Samspei01/blob/master/images/tenor.gif" width="50%">
+  <img src="https://media1.tenor.com/m/lOKpSMnYE5YAAAAC/hi-anime.gif" width="50%">
   <br>
-  <img src="https://github.com/Samspei01/Samspei01/blob/master/images/name.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 </h1>
 
 <p align="center">
@@ -11,4 +10,4 @@
 </p>
 
 
-## <img src = "https://media1.tenor.com/m/lOKpSMnYE5YAAAAC/hi-anime.gif" width = 6.5%> About me
+## <img src = "" width = 6.5%> About me
