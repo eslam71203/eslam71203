@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+student+%40+AAST;I+am+majoring+in+intelligent+systems+%26+machine+learning+" alt="Typing SVG" /></a>
 </p>
+
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 <img align="right" src="https://github.com/Samspei01/Samspei01/blob/master/images/Right_Side.gif?raw=true" width="30%">
 
