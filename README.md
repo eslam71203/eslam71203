@@ -2,15 +2,19 @@
   <img src="https://media1.tenor.com/m/lOKpSMnYE5YAAAAC/hi-anime.gif" width="50%">
   <br>
 </h1>
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+student+%40+AAST;I+am+majoring+in+intelligent+systems+%26+machine+learning+" alt="Typing SVG" /></a>
-
+</p>
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 <img align="right" src="https://github.com/Samspei01/Samspei01/blob/master/images/Right_Side.gif?raw=true" width="30%">
+
 <br><br>
-🎓 I’m currently a student of Artificial Intelligence @AAST.<br>🦾 studying Robotics with a focus on Machine Learning<br>🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.<br>📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.<br>💾 Proficient in data structures and algorithms.<br>
-
-
+- 🎓 I’m currently a `student` of [Artificial Intelligence @AAST](https://campaigns.aast.edu/artificial-intelligence/).
+- 🦾 studying Robotics with a focus on Machine Learning
+- 🤖 Deeply involved in robotics, leveraging technologies like ROS and kinematics.
+- 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
+- 💾 Proficient in robotics & web design.
+<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dwZWm4dN) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eslam.naser.39589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eslam.nasser.elsaeed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslam-nasser-026207270) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eslamnasser658) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eslam_na_saeed) 
 
