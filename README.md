@@ -15,6 +15,7 @@
 - 📊 Experienced in data science, with a focus on machine learning, deep learning, NLP, and reinforcement learning.
 - 💾 Proficient in robotics & web design.
 <br>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dwZWm4dN) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eslam.naser.39589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eslam.nasser.elsaeed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslam-nasser-026207270) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eslamnasser658) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eslam_na_saeed) 
 
